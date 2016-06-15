@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding/Content_based.py=utf-8
+encoding/Graph_based.py=utf-8
+encoding/Item_based_CF.py=utf-8
+encoding/MultiRecommendation.py=utf-8
+encoding/Tag_based.py=utf-8
+encoding/User_based_CF.py=utf-8
